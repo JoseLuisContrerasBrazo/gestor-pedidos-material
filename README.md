@@ -42,5 +42,5 @@ Catálogo de seis productos en tres categorías, búsqueda y filtros combinables
 - Captura de un breakpoint en la función `confirmar()` o `validar()` y explicación de los valores inspeccionados.
 - Enlaces reales a las conversaciones con IA utilizadas y breve análisis personal de las decisiones tomadas. Completa este apartado con tus propias conversaciones.
 
-## Preparación de la defensa
-Debes saber explicar la clase `Producto`, `this`, `find`, `filter`, `map`, `forEach`, `push`, `splice`, la delegación de eventos, `preventDefault`, `FormData`, `setCustomValidity`, `checkValidity`, `reportValidity`, el cálculo del descuento y por qué el stock solo se descuenta al confirmar.
+## Enlace IA  
+- enlace chat de IA : "https://chatgpt.com/share/6b018b8b-1fac-83ed-bb14-354332527020"
